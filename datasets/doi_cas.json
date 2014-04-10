@@ -9,8 +9,8 @@
         "mbox": "Matthew.Harriman@BIE.EDU",
         "identifier": "sipi_01",
         "accessLevel": "public",
-        "bureauCode": ["076:10",
-        "programCode": ["010:098",
+        "bureauCode": ["076:10"],
+        "programCode": ["010:098"],
         "accessURL": "http://www.sipi.edu/about/public-disclosures/",
         "format": "application/pdf",
         "theme": ["health"]
