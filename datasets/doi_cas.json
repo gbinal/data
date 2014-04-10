@@ -27,7 +27,7 @@
         "accessLevel": "public",
         "bureauCode": ["076:10"],
         "programCode": ["010:098"],
-        "accessURL": "http: //www.haskell.edu/downloads/Clery%20Act%20Report/CampusCrimeSurvey2012.pdf",
+        "accessURL": "http://www.haskell.edu/downloads/Clery%20Act%20Report/CampusCrimeSurvey2012.pdf",
         "format": "application/pdf",
         "theme": ["health"]
     },
@@ -43,7 +43,7 @@
         "accessLevel": "public",
         "bureauCode": ["076:10"],
         "programCode": ["010:098"],
-        "accessURL": "http: //www.bia.gov/cs/groups/xraca/documents/text/idc-022708.pdf",
+        "accessURL": "http://www.bia.gov/cs/groups/xraca/documents/text/idc-022708.pdf",
         "format": "application/pdf",
         "theme": ["health"]
     }
