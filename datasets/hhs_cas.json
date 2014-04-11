@@ -410,11 +410,11 @@
     "landingPage": "http://psidonline.isr.umich.edu/", 
     "distribution": [
       {
-        "accessURL": "http://psidonline.isr.umich.edu/Studies.aspx"
+        "accessURL": "http://psidonline.isr.umich.edu/Studies.aspx",
         "format": "text/html"
       }, 
       {
-        "accessURL": "http://simba.isr.umich.edu/default.aspx"
+        "accessURL": "http://simba.isr.umich.edu/default.aspx",
         "format": "text/html"
       }
     ]
