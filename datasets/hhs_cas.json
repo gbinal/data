@@ -1,0 +1,787 @@
+[
+{
+    "title": "Adolescent Relationship Abuse (ARA) Toolkit", 
+    "description": "The Adolescent Relationship Abuse (ARA) Toolkit provides information and strategies on how to: incorporate abuse prevention into programming; conduct staff training; formalize policies and procedures; conduct staff training on ARA prevention; and access resources for project participants.  ", 
+    "keyword": [
+      "adolescent relationship abuse", 
+      "early intervention", 
+      "grantee resource", 
+      "prevention", 
+      "sexual assault", 
+      "step-by-step", 
+      "toolkit", 
+      "training", 
+      "violence"
+    ], 
+    "modified": "2014-04-04", 
+    "publisher": "Administration for Children and Families", 
+    "bureauCode": [
+      "009:70"
+    ], 
+    "programCode": [
+      "009:000"
+    ], 
+    "contactPoint": "NCYF", 
+    "mbox": "ncfy@acf.hhs.gov", 
+    "identifier": "5a3fcb80-d152-4010-a225-2cb0cdc8d2a0", 
+    "accessLevel": "public", 
+    "accessURL": "https://prep.rti.org/ARAtoolkit/index.html", 
+    "format": "text/plain", 
+    "issued": "2014-04-04", 
+    "dataQuality": true, 
+    "theme": [
+      "Children's Health", 
+      "Safety", 
+      "Treatments"
+    ], 
+    "landingPage": "https://prep.rti.org/ARAtoolkit/index.html", 
+    "distribution": [
+      {
+        "identifier": "e1d6e3b0-5798-4bc4-9ab7-0756210fd229", 
+        "accessURL": "https://prep.rti.org/ARAtoolkit/index.html", 
+        "format": null
+      }
+    ]
+  }, 
+    {
+    "title": "National Sexual Violence Resource Center (NSVRC)", 
+    "description": "The National Sexual Violence Resource Center (NSVRC) is a national information and resource hub relating to all aspects of sexual violence. \r\n\r\nNSVRC staff collect and disseminate a wide range of resources on sexual violence including statistics, research, position statements, statutes, training curricula, prevention initiatives and program information. With these resources, NSVRC assists coalitions, advocates and others interested in understanding and eliminating sexual violence. NSVRC has an active and diverse Advisory Council that assists and advises staff and ensures a broad national perspective. NSVRC also enjoys a strong partnership with state, territory and tribal anti-sexual assault coalitions and allied organizations.\r\n\r\nNSVRC is funded through a cooperative agreement from the Centers for Disease Control and Prevention (CDC) Division of Violence Prevention.", 
+    "keyword": [
+      "abuse", 
+      "curricula", 
+      "prevention", 
+      "publications", 
+      "resource center", 
+      "sexual assault", 
+      "violence", 
+      "women"
+    ], 
+    "modified": "2001-01-01", 
+    "publisher": "Centers for Disease Control and Prevention", 
+    "bureauCode": [
+      "009:20"
+    ], 
+    "programCode": [
+      "009:000"
+    ], 
+    "contactPoint": "NSVRC", 
+    "mbox": "resources@nsvrc.org", 
+    "identifier": "ef126c3f-b130-42b0-8345-7c1502954aa5", 
+    "accessLevel": "public", 
+    "accessURL": "http://www.nsvrc.org/", 
+    "format": "text/plain", 
+    "spatial": "United States", 
+    "issued": "2001-01-01", 
+    "dataQuality": true, 
+    "theme": [
+      "Health Care Providers", 
+      "Safety", 
+      "Treatments"
+    ], 
+    "landingPage": "http://www.nsvrc.org/", 
+    "distribution": [
+      {
+        "identifier": "7b325558-5cfd-4a57-9a58-d5a89556b9b3", 
+        "accessURL": "http://www.nsvrc.org/", 
+        "format": null
+      }, 
+      {
+        "identifier": "25428b3e-ee27-4f1d-aee1-521c4516cbda", 
+        "accessURL": "http://www.nsvrc.org/contact/request-assistance", 
+        "format": null
+      }
+    ]
+  },
+   {
+    "title": "Youth Risk Behavior Surveillance System (YRBSS)", 
+    "description": "The Youth Risk Behavior Surveillance System (YRBSS) monitors 6 types of health-risk behaviors that contribute to the leading causes of death and disability among youth and adults, including: behaviors that contribute to unintentional injuries and violence; sexual behaviors that contribute to unintended pregnancy and sexually transmitted diseases (STDs), including HIV infection; alcohol and other drug use; tobacco use; unhealthy dietary behaviors; inadequate physical activity. YRBSS also measures the prevalence of obesity and asthma among youth and young adults. YRBSS includes a national school-based survey conducted by CDC and state, territorial, tribal, and local surveys conducted by state, territorial, and local education and health agencies and tribal governments.", 
+    "keyword": [
+      "health-related behaviors", 
+      "national", 
+      "sexual assault", 
+      "surveillance", 
+      "survey", 
+      "youth"
+    ], 
+    "modified": "2013-01-01", 
+    "publisher": "Centers for Disease Control and Prevention", 
+    "bureauCode": [
+      "009:20"
+    ], 
+    "programCode": [
+      "009:000"
+    ], 
+    "contactPoint": "YRBSS", 
+    "mbox": "yrbss@cdc.gov", 
+    "identifier": "1d615c07-1847-4fc6-bee6-326fe46b9b33", 
+    "accessLevel": "public", 
+    "accessURL": "http://www.cdc.gov/healthyyouth/yrbs/cdcreports.htm", 
+    "format": "text/plain", 
+    "spatial": "United States", 
+    "temporal": "1991-01-01/1991-01-01", 
+    "dataQuality": true, 
+    "theme": [
+      "Children's Health", 
+      "Epidemiology", 
+      "Population Statistics"
+    ], 
+    "references": [
+      "http://www.cdc.gov/mmwr/pdf/rr/rr6201.pdf"
+    ], 
+    "landingPage": "http://www.cdc.gov/healthyyouth/yrbs/data/index.htm", 
+    "distribution": [
+      {
+        "identifier": "0f38c1d0-540d-4279-b7fc-2ba2064b7f6a", 
+        "accessURL": "http://www.cdc.gov/healthyyouth/yrbs/cdcreports.htm", 
+        "format": null
+      }
+    ]
+  }, 
+   {
+    "title": "National Violent Death Reporting System (NVDRS)", 
+    "description": "The National Violent Death Reporting System (NVDRS) provides states and communities with a clearer understanding of violent deaths to guide local decisions about efforts to prevent violence and helps them track progress over time. \r\n\r\nTo stop violent deaths, we must first understand all the facts. Created in 2002, the NVDRS is a surveillance system that pulls together data on violent deaths in 18 states (see map below), including information about homicides, such as homicides perpetrated by a intimate partner (e.g., boyfriend, girlfriend, wife, husband), child maltreatment (or child abuse) fatalities, suicides, deaths where individuals are killed by law enforcement in the line of duty, unintentional firearm injury deaths, and deaths of undetermined intent.\r\n\r\nThese data are supported by WISQARS, an interactive query system that provides data on injury deaths, violent deaths, and nonfatal injuries.", 
+    "keyword": [
+      "community health", 
+      "injury deaths", 
+      "nonfatal injuries", 
+      "sexual assault", 
+      "violent deaths", 
+      "ypll"
+    ], 
+    "modified": "1999-01-01", 
+    "publisher": "Centers for Disease Control and Prevention", 
+    "bureauCode": [
+      "009:20"
+    ], 
+    "programCode": [
+      "009:000"
+    ], 
+    "contactPoint": "nvrds@cdc.gov", 
+    "mbox": "nvrds@cdc.gov", 
+    "identifier": "68c80a71-e53c-46a9-af3a-f4a9e1ff57cd", 
+    "accessLevel": "public", 
+    "spatial": "18 states", 
+    "issued": "1999-01-01", 
+    "dataQuality": true, 
+    "theme": [
+      "Health Care Providers", 
+      "Population Statistics", 
+      "Safety"
+    ], 
+    "references": [
+      "http://www.cdc.gov/violenceprevention/nvdrs/trainingtechnicalassist"
+    ], 
+    "landingPage": "http://www.cdc.gov/injury/wisqars/nvdrs"
+  }, 
+    {
+    "title": "National Epidemiologic Survey on Alcohol and Related Conditions (NESARC)\u2014Wave 1 (2001\u20132002), and Wave 2 (2004\u20132005)", 
+    "description": "National Epidemiologic Survey on Alcohol and Related Conditions (NESARC) was designed to assess the prevalence of alcohol use disorders (AUD) and their associated disabilities in the general population. The survey is the largest ever comorbidity study of multiple mental health disorders among U.S. adults, including alcohol and other substance use disorders, personality disorders, and anxiety and mood disorders. NESARC is designed to be a longitudinal survey with the first wave fielded in 2001\u20132002. The second wave of interviews was completed in 2004\u20132005 and used the same sample of respondents. \r\n\r\nNESARC is a nationwide household survey with a probability sample representative of US adults. The final sample for Wave 1 was 43,093 respondents; Wave 2 was 34,653 of the Wave 1 respondents.  \r\n\r\nData are not publicly available; however, researchers may request specific analyses via Census.  ", 
+    "keyword": [
+      "Adult", 
+      "alcohol", 
+      "anxiety", 
+      "cohort", 
+      "disability", 
+      "longitudinal survey", 
+      "mental health", 
+      "mood disorder", 
+      "sexual assault", 
+      "substance use"
+    ], 
+    "modified": "2014-03-31", 
+    "publisher": "National Institutes of Health", 
+    "bureauCode": [
+      "009:25"
+    ], 
+    "programCode": [
+      "009:000"
+    ], 
+    "contactPoint": "NIAAA Information", 
+    "mbox": "niaaaweb-r@exchange.nih.gov", 
+    "identifier": "9a8243ef-3494-447a-a694-ad54c472aeaa", 
+    "accessLevel": "public", 
+    "accessURL": "http://pubs.niaaa.nih.gov/publications/arh29-2/74-78.htm", 
+    "format": "text/plain", 
+    "spatial": "United States", 
+    "temporal": "2001-01-01/2005-12-31", 
+    "issued": "2014-03-31", 
+    "dataQuality": true, 
+    "theme": [
+      "Epidemiology", 
+      "Other", 
+      "Population Statistics"
+    ], 
+    "references": [
+      "http://pubs.niaaa.nih.gov/publications/manual.htm"
+    ], 
+    "distribution": [
+      {
+        "identifier": "3edd3eb0-0d39-4abf-b3a6-a794dff6471a", 
+        "accessURL": "http://pubs.niaaa.nih.gov/publications/arh29-2/74-78.htm", 
+        "format": null
+      }, 
+      {
+        "identifier": "5ae21d2c-6970-4adf-9df8-7524e26cc231", 
+        "accessURL": "http://pubs.niaaa.nih.gov/publications/datasys.htm", 
+        "format": null
+      }, 
+      {
+        "identifier": "43a74381-f54c-4a0f-93c1-3a3af1487439", 
+        "accessURL": "http://clinicaltrials.gov/show/NCT01273220", 
+        "format": null
+      }, 
+      {
+        "identifier": "5e2cdf8c-f4dc-45d3-a688-22c9e23399f1", 
+        "accessURL": "http://www.ncbi.nlm.nih.gov/pubmed/?term=nesarc", 
+        "format": null
+      }
+    ]
+  }, 
+  {
+    "title": "National Epidemiologic Survey on Alcohol and Related Conditions (NESARC) - III", 
+    "description": "The National Epidemiologic Survey on Alcohol and Related Conditions - III (NESARC-III) is a nationally representative survey of 46,500 adult Americans that collected data on alcohol use disorders and their associated disabilities in addition to collecting saliva samples for the purpose of understanding the prevalence, risk factors, health disparities, economic costs and gene-environment interactions related to alcohol use disorders and their associated disabilities. \r\n\r\nResults from the study are not yet available. The data collection is also associated with clinical trial number: NCT01273220. ", 
+    "keyword": [
+      "Adult", 
+      "alcohol", 
+      "anxiety", 
+      "disability", 
+      "disparities", 
+      "mental health", 
+      "mood disorder", 
+      "sexual assault", 
+      "substance use"
+    ], 
+    "publisher": "National Institutes of Health", 
+    "bureauCode": [
+      "009:25"
+    ], 
+    "programCode": [
+      "009:000"
+    ], 
+    "contactPoint": "NIAAA Information", 
+    "mbox": "niaaaweb-r@exchange.nih.gov", 
+    "identifier": "70211211-4267-4ee0-8c7b-9e5c29796e72", 
+    "accessLevel": "public", 
+    "accessURL": "http://www.reginfo.gov/public/do/DownloadDocument?documentID=228799&version=1", 
+    "format": "text/plain", 
+    "spatial": "United States", 
+    "temporal": "2012-02-01/2013-01-31", 
+    "dataQuality": true, 
+    "theme": [
+      "Epidemiology", 
+      "Other", 
+      "Population Statistics"
+    ], 
+    "distribution": [
+      {
+        "identifier": "76948330-3b0a-4452-858d-a404cbb3b9f1", 
+        "accessURL": "http://www.reginfo.gov/public/do/DownloadDocument?documentID=228799&version=1", 
+        "format": null
+      }, 
+      {
+        "identifier": "e4d63cad-cb94-4489-940a-81b3257c2c9b", 
+        "accessURL": "http://clinicaltrials.gov/show/NCT01273220", 
+        "format": null
+      }, 
+      {
+        "identifier": "44db6cba-0af3-4118-b021-92f8c46d2e54", 
+        "accessURL": "http://clinicaltrials.gov/show/NCT01273220", 
+        "format": null
+      }, 
+      {
+        "identifier": "1c8bec39-bd0f-4d03-8b77-84a59fc8b2c8", 
+        "accessURL": "http://www.ncbi.nlm.nih.gov/pubmed/?term=nesarc", 
+        "format": null
+      }
+    ]
+  }, 
+   {
+    "title": "National Intimate Partner and Sexual Violence Survey (NISVS)", 
+    "description": "The National Intimate Partner and Sexual Violence Survey (NISVS) is an ongoing, nationally representative survey to assess experiences of intimate partner violence, sexual violence and stalking among adults in the United States. It measures lifetime victimization for these types of violence as well as in the previous 12 months. In 2010, a total of 18,049 interviews from the general population sample were conducted.\r\n\r\nRaw data are currently unavailable. State report tables are available in pdf format. Other key statistics are included in the summary and full reports.", 
+    "keyword": [
+      "Adolescent", 
+      "Adult", 
+      "Female", 
+      "Forecasting", 
+      "LGBT", 
+      "Male", 
+      "Population Surveillance", 
+      "Public Health Practice", 
+      "Sexual Partners psychology", 
+      "Violence prevention   control", 
+      "Violence statistics   numerical data", 
+      "Young Adult", 
+      "child", 
+      "pregnancy", 
+      "sexual assault", 
+      "sexual orientation", 
+      "united states"
+    ], 
+    "publisher": "Centers for Disease Control and Prevention", 
+    "bureauCode": [
+      "009:20"
+    ], 
+    "programCode": [
+      "009:000"
+    ], 
+    "contactPoint": "nisvs@cdc.gov", 
+    "mbox": "nisvs@cdc.gov", 
+    "identifier": "dc67f31f-6de5-4c5c-b1e9-534f32debf8c", 
+    "accessLevel": "public", 
+    "accessURL": "http://www.cdc.gov/violenceprevention/pdf/cdc_nisvs_digest_final-a.pdf", 
+    "format": "text/plain", 
+    "spatial": "United States", 
+    "temporal": "2010-01-01/2010-01-01", 
+    "dataQuality": true, 
+    "theme": [
+      "Other", 
+      "Population Statistics", 
+      "Safety"
+    ], 
+     {
+    "title": "Veto Violence - Violence Education Tools Online", 
+    "description": "VetoViolence.cdc.gov has been developed by the Centers for Disease Control and Prevention (CDC) to provide grantees and partners with access to training and tools that focus on the primary prevention of violence. The portal includes free training, program planning resources, and an online application for the creation of success stories. ", 
+    "keyword": [
+      "child maltreatment", 
+      "intimate partner violence", 
+      "principles of prevention  POP", 
+      "public health", 
+      "sexual assault", 
+      "stories", 
+      "suicide", 
+      "training", 
+      "violence prevention", 
+      "youth"
+    ], 
+    "modified": "2011-01-01", 
+    "publisher": "Centers for Disease Control and Prevention", 
+    "bureauCode": [
+      "009:20"
+    ], 
+    "programCode": [
+      "009:000"
+    ], 
+    "contactPoint": "Veto Violence", 
+    "mbox": "VetoViolence@cdc.gov", 
+    "identifier": "65fb33a0-129d-45b5-9e0b-2e6b20b60af4", 
+    "accessLevel": "public", 
+    "accessURL": "http://vetoviolence.cdc.gov/", 
+    "format": "text/plain", 
+    "spatial": "United States", 
+    "issued": "2011-01-01", 
+    "dataQuality": true, 
+    "theme": [
+      "Health Care Providers", 
+      "Other", 
+      "Safety"
+    ], 
+    "landingPage": "http://vetoviolence.cdc.gov", 
+    "distribution": [
+      {
+        "identifier": "872b508b-f8e3-4967-b616-9811fe634d61", 
+        "accessURL": "http://vetoviolence.cdc.gov/", 
+        "format": null
+      }, 
+      {
+        "identifier": "8fe332d0-a3bd-429b-9f79-9428e187e737", 
+        "accessURL": "http://vetoviolence.cdc.gov/education-courses.html", 
+        "format": null
+      }, 
+      {
+        "identifier": "55655e50-5cd1-438b-8882-4afdb7355b4f", 
+        "accessURL": "http://vetoviolence.cdc.gov/success-worksheet.html", 
+        "format": null
+      }
+    ]
+  }, 
+   {
+    "title": "The Panel Study of Income Dynamics (PSID)", 
+    "description": "The Panel Study of Income Dynamics (PSID) began in 1968 with a nationally representative sample of over 18,000 individuals living in 5,000 families in the United States. Information on these individuals and their descendants has been collected continuously, including data covering employment, income, wealth, expenditures, health, marriage, childbearing, child development, philanthropy, education, and numerous other topics. ", 
+    "keyword": [
+      "adulthood", 
+      "aging", 
+      "cohort", 
+      "education", 
+      "employment", 
+      "event", 
+      "expenditures", 
+      "health", 
+      "income", 
+      "interview", 
+      "longitudinal", 
+      "marriage", 
+      "panel", 
+      "sexual assault", 
+      "transitions", 
+      "wealth"
+    ], 
+    "modified": "2014-04-04", 
+    "publisher": "National Institutes of Health", 
+    "bureauCode": [
+      "009:25"
+    ], 
+    "programCode": [
+      "009:000"
+    ], 
+    "contactPoint": "Panel Study of Income Dynamics Help", 
+    "mbox": "psidhelp@umich.edu", 
+    "identifier": "f073b460-a557-4b5d-8ab0-05b7f2a07f26", 
+    "accessLevel": "public", 
+    "accessURL": "http://psidonline.isr.umich.edu/Studies.aspx", 
+    "format": "text/plain", 
+    "license": "http://simba.isr.umich.edu/U/ca.aspx", 
+    "spatial": "United States", 
+    "temporal": "1968-01-01/1968-01-01", 
+    "issued": "2014-04-04", 
+    "dataQuality": true, 
+    "theme": [
+      "Epidemiology", 
+      "Population Statistics"
+    ], 
+    "references": [
+      "http://psidonline.isr.umich.edu/Guide/default.aspx"
+    ], 
+    "landingPage": "http://psidonline.isr.umich.edu/", 
+    "distribution": [
+      {
+        "identifier": "aa31eb67-53d4-495b-8560-6be1f010fd6c", 
+        "accessURL": "http://psidonline.isr.umich.edu/Studies.aspx", 
+        "format": null
+      }, 
+      {
+        "identifier": "5e0a028c-3eec-4f2d-86ec-dba08490bb44", 
+        "accessURL": "http://simba.isr.umich.edu/default.aspx", 
+        "format": null
+      }
+    ]
+  }, 
+    {
+    "title": "Service Locator - Family Planning Title X", 
+    "description": "This locator tool will help you find Title X family planning centers that provide high quality and cost-effective family planning and related preventive health services for low-income women and men. \r\n\r\nFamily planning centers offer a broad range of FDA-approved contraceptive methods and related counseling; as well as breast and cervical cancer screening; pregnancy testing and counseling; screening and treatment for sexually transmitted infections (STIs); HIV testing; and other patient education and referrals.\r\n\r\n4,400 family planning centers serve about 5 million clients each year. Services are provided through state, county, and local health departments; community health centers; Planned Parenthood centers; and hospital-based, school-based, faith-based, other private nonprofits.\r\n\r\nTitle X staff are specially trained to meet the contraceptive needs of individuals with limited English proficiency, teenagers, and those confronting complex medical and personal issues such as substance abuse, disability, homelessness or interpersonal and domestic violence.", 
+    "keyword": [
+      "Cervical Cancer", 
+      "STDs", 
+      "STIs", 
+      "birth control", 
+      "community health", 
+      "contraceptives", 
+      "family planning", 
+      "health services", 
+      "locator", 
+      "pregnancy", 
+      "primary care", 
+      "providers", 
+      "sexual assault", 
+      "sexually transmitted infections", 
+      "testing", 
+      "treatment", 
+      "wellness"
+    ], 
+    "modified": "2012-09-06", 
+    "publisher": "Department of Health & Human Services", 
+    "bureauCode": [
+      "009:00"
+    ], 
+    "programCode": [
+      "009:000"
+    ], 
+    "contactPoint": "Office of Population Affairs", 
+    "mbox": "opa@hhs.gov", 
+    "identifier": "3feb5024-2ba1-4110-9c73-fee5c0f82e26", 
+    "accessLevel": "public", 
+    "accessURL": "http://www.hhs.gov/opa/", 
+    "webService": "http://locator.aids.gov/data-how-to.html", 
+    "format": "text/plain", 
+    "issued": "2012-09-06", 
+    "dataQuality": true, 
+    "theme": [
+      "Health Care Providers", 
+      "Safety", 
+      "Treatments"
+    ], 
+    "references": [
+      "http://locator.aids.gov/data-how-to.html"
+    ], 
+    "landingPage": "http://locator.aids.gov/", 
+    "distribution": [
+      {
+        "identifier": "f582cd16-aec6-4c75-b99b-958759520f15", 
+        "accessURL": "http://www.hhs.gov/opa/", 
+        "format": null
+      }
+    ]
+  }, 
+   {
+    "title": "National Survey of Family Growth", 
+    "description": "The National Survey of Family Growth (NSFG) gathers information on family life, marriage and divorce, pregnancy, infertility, use of contraception, and men's and women's health. The survey results are used by the U.S. Department of Health and Human Services and others to plan health services and health education programs, and to do statistical studies of families, fertility, and health.  Years included:  1973, 1976, 1982, 1988, 1995, 2002, 2006-2010;  Data use agreement at time of file download: ", 
+    "keyword": [
+      "families", 
+      "fertility", 
+      "health", 
+      "rape", 
+      "sexual assault"
+    ], 
+    "modified": "2012-11-02", 
+    "publisher": "Centers for Disease Control and Prevention", 
+    "bureauCode": [
+      "009:20"
+    ], 
+    "programCode": [
+      "009:000"
+    ], 
+    "contactPoint": "National Survey of Family Growth", 
+    "mbox": "nsfg@cdc.gov", 
+    "identifier": "23fa5e15-4a4f-43b6-8d1a-4aad74ad0665", 
+    "accessLevel": "public", 
+    "dataDictionary": "http://www.cdc.gov/nchs/nsfg/nsfg_questionnaires.htm", 
+    "accessURL": "http://www.cdc.gov/nchs/nsfg/nsfg_2006_2010_puf.htm#downloadable", 
+    "format": "text/csv", 
+    "license": "http://www.cdc.gov/nchs/nsfg/nsfg_2006_2010_puf.htm#acasi_data_file", 
+    "spatial": "Natonal sample", 
+    "temporal": "1973-01-01/2010-12-31", 
+    "issued": "2012-11-02", 
+    "dataQuality": true, 
+    "theme": [
+      "Children's Health", 
+      "Other", 
+      "Population Statistics"
+    ], 
+    "references": [
+      "http://www.cdc.gov/nchs/nsfg.htm"
+    ], 
+    "landingPage": "http://www.cdc.gov/nchs/nsfg/nsfg_questionnaires.htm", 
+    "distribution": [
+      {
+        "identifier": "57ef58b7-c752-44eb-bf7e-916bcb62a072", 
+        "accessURL": "http://www.cdc.gov/nchs/nsfg/nsfg_2006_2010_puf.htm#downloadable", 
+        "format": null
+      }
+    ]
+  }, 
+   {
+    "title": "HCUP Nationwide Emergency Department Database (NEDS)", 
+    "description": "The Nationwide Emergency Department Sample (NEDS) was created to enable analyses of emergency department (ED) utilization patterns and support public health professionals, administrators, policymakers, and clinicians in their decision-making regarding this critical source of care. The NEDS can be weighted to produce national estimates.\r\n\r\nThe NEDS is the largest all-payer ED database in the United States.  It was constructed using records from both the HCUP State Emergency Department Databases (SEDD) and the State Inpatient Databases (SID), both also described in healthdata.gov. The SEDD capture information on ED visits that do not result in an admission (i.e., treat-and-release visits and transfers to another hospital). The SID contain information on patients initially seen in the emergency room and then admitted to the same hospital. \r\n\r\nThe NEDS contains 25-30 million (unweighted) records for ED visits for over 950 hospitals and approximates a 20-percent stratified sample of U.S. hospital-based EDs. \r\n\r\nThe NEDS contains information about geographic characteristics, hospital characteristics, patient characteristics, and the nature of visits (e.g., common reasons for ED visits, including injuries).   The NEDS contains clinical and resource use information included in a typical discharge abstract, with safeguards to protect the privacy of individual patients, physicians, and hospitals (as required by data sources). It includes ED charge information for over 75% of patients, regardless of payer, including patients covered by Medicaid, private insurance, and the uninsured. The NEDS excludes data elements that could directly or indirectly identify individuals, hospitals, or states.\r\n", 
+    "keyword": [
+      "claims", 
+      "diagnoses", 
+      "emergency department", 
+      "hcup", 
+      "health care", 
+      "health statistics", 
+      "hospital", 
+      "inpatient", 
+      "procedures", 
+      "sexual assault", 
+      "utilization"
+    ], 
+    "modified": "2013-03-14", 
+    "publisher": "Agency for Healthcare Research and Quality", 
+    "bureauCode": [
+      "009:33"
+    ], 
+    "programCode": [
+      "009:000"
+    ], 
+    "contactPoint": "HCUP Technical Assistance", 
+    "mbox": "hcup@ahrq.gov", 
+    "identifier": "56396c85-45c9-418c-a20b-0e138305ca69", 
+    "accessLevel": "public", 
+    "dataDictionary": "http://www.hcup-us.ahrq.gov/db/nation/neds/nedsdde.jsp", 
+    "license": "http://www.hcup-us.ahrq.gov/tech_assist/centdist.jsp", 
+    "spatial": "National, regional", 
+    "temporal": "2006-01-01/2010-12-31", 
+    "issued": "2010-04-01", 
+    "dataQuality": true, 
+    "theme": [
+      "Health Care Cost", 
+      "Health Care Providers"
+    ], 
+    "references": [
+      "http://www.hcup-us.ahrq.gov/db/nation/neds/nedsdbdocumentation.jsp"
+    ], 
+    "landingPage": "http://www.hcup-us.ahrq.gov/nedsoverview.jsp"
+  }, 
+    {
+    "title": "HCUP State Emergency Department Databases (SEDD)", 
+    "description": "The State Emergency Department Databases (SEDD) contain the universe of emergency department visits in participating States. The data are translated into a uniform format to facilitate multi-State comparisons and analyses. The SEDD consist of data from hospital-based emergency departments and include all patients, regardless of payer, e.g., persons covered by Medicare, Medicaid, private insurance, and the uninsured. \r\n\r\nThe SEDD contain clinical and resource use information included in a typical discharge abstract, with safeguards to protect the privacy of individual patients, physicians, and facilities (as required by data sources). Data elements include but are not limited to: diagnoses, procedures, admission and discharge status, patient demographics (e.g., gender, age), total charges, length of stay, and expected payment source (e.g., Medicare, Medicaid, private insurance, self-pay; for some States, additional discrete payer categories, such as managed care). In addition to the core set of uniform data elements common to all SEDD, some include State-specific data elements, such as the patient's race.  The SEDD exclude data elements that could directly or indirectly identify individuals.  For some States, hospital and county identifiers are included that permit linkage to the American Hospital Association Annual Survey File and the Area Resource File. ", 
+    "keyword": [
+      "claims", 
+      "community health", 
+      "diagnoses", 
+      "emergency department", 
+      "hcup", 
+      "health care", 
+      "health statistics", 
+      "hospital", 
+      "procedures", 
+      "sexual assault", 
+      "utilization"
+    ], 
+    "modified": "2013-03-14", 
+    "publisher": "Agency for Healthcare Research and Quality", 
+    "bureauCode": [
+      "009:33"
+    ], 
+    "programCode": [
+      "009:000"
+    ], 
+    "contactPoint": "HCUP Technical Assistance", 
+    "mbox": "hcup@ahrq.gov", 
+    "identifier": "a5a3af8d-4456-495e-80cb-8738b39c610e", 
+    "accessLevel": "public", 
+    "dataDictionary": "http://www.hcup-us.ahrq.gov/db/state/sedddist/sedd_multivar.jsp", 
+    "license": "http://www.hcup-us.ahrq.gov/tech_assist/centdist.jsp", 
+    "spatial": "State, county, ZIP Code (varies by state)", 
+    "temporal": "1999-01-01/2011-12-31", 
+    "issued": "2005-01-01", 
+    "dataQuality": true, 
+    "theme": [
+      "Health Care Cost", 
+      "Health Care Providers"
+    ], 
+    "references": [
+      "http://www.hcup-us.ahrq.gov/db/state/sedddbdocumentation.jsp"
+    ], 
+    "landingPage": "http://www.hcup-us.ahrq.gov/seddoverview.jsp"
+  }, 
+ {
+    "title": "Mental Health Treatement Facilities Locator", 
+    "description": "An online resource for locating mental health treatment facilities and programs supported by the Substance Abuse and Mental Health Services Administration (SAMHSA). The Mental Health Treatment Locator section of the Behavioral Health Treatment Services Locator lists facilities providing mental health services to persons with mental illness. It includes:\r\nPublic mental health facilities that are funded by their State mental health agency (SMHA) or other State agency or department\r\nMental health treatment facilities administered by the Department of Veterans Affairs, Private for-profit and non-profit mental health facilities that are licensed by the State or accredited by a national accreditation organization.\r\n\r\nNOTE: The Mental Health Treatment Locator does not include facilities whose primary or only focus is the provision of services to persons with Mental Retardation (MR), Developmental Disability (DD), and Traumatic Brain Injuries (TBI). Facilities that provide treatment exclusively to persons with mental illness who are incarcerated. Mental health professionals in private practice (individual) or in a small group practice not licensed or certified as a mental health clinic or (community) mental health center.\r\n\r\nSAMHSA endeavors to keep the Locator current. All information in the Locator is updated annually based on facility responses to SAMHSA's National Mental Health Services Survey (N-MHSS). The most recent complete update includes data collected as of April 30, 2010 in the N-MHSS. New facilities are added monthly. Updates to facility names, addresses, telephone numbers and services are made weekly, if facilities inform SAMHSA of changes.\r\n\r\nFor additional advice, you may call the Referral Helpline operated by SAMHSA's Center for Substance Abuse Treatment:\r\n\r\n    1-800-662-HELP (English & Espa\u00f1ol)\r\n\r\n    1-800-487-4889 (TTY)", 
+    "keyword": [
+      "help", 
+      "locator", 
+      "mental health treatment facilities", 
+      "provider", 
+      "psychatrist", 
+      "psychologist", 
+      "sexual assault", 
+      "substance abuse. buprenorphine", 
+      "suicide prevention", 
+      "therapy"
+    ], 
+    "modified": "2012-12-03", 
+    "publisher": "Substance Abuse & Mental Health Services Administration", 
+    "bureauCode": [
+      "009:30"
+    ], 
+    "programCode": [
+      "009:000"
+    ], 
+    "contactPoint": "Find Treatment", 
+    "mbox": "findtreatment@samhsa.hhs.gov", 
+    "identifier": "3ea82b25-e15d-452c-89a8-4fd9f32ec831", 
+    "accessLevel": "public", 
+    "accessURL": "http://serviceslocator.mentalhealth.gov/providers/", 
+    "format": "application/unknown", 
+    "spatial": "Country", 
+    "issued": "2012-12-03", 
+    "dataQuality": true, 
+    "theme": [
+      "Health Care Providers", 
+      "Safety", 
+      "Treatments"
+    ], 
+    "landingPage": "http://findtreatment.samhsa.gov/MHTreatmentLocator/faces/about.jspx", 
+    "distribution": [
+      {
+        "identifier": "10122904-59b0-45aa-bddc-c828a6c3aca7", 
+        "accessURL": "http://serviceslocator.mentalhealth.gov/providers/", 
+        "format": null
+      }
+    ]
+  }, 
+ {
+    "title": "Find a Health Center", 
+    "description": "The Find Health Center tool is a locator tool designed to make data and information concerning Federally-Funded Health Centers more readily available to our users. It is intended to help people in greatest need for health care locate where they could obtain care in their particular location. The user is able to search for health centers nearest to a specific complete address, city and state, state and county, or ZIP code. The search results (health centers) are returned in groups of ten (numbered from one to ten) and are sorted by increasing distance away from the center of the search area (address or county). For each health center entry in the list the user is provided the health center name, address, approximate distance from the center point of the search, telephone number, website address (where available), and a link for driving directions. The user has the option of viewing the search results either on a map or as text (default) and both views provide links to get more detailed information for each returned opportunity.", 
+    "keyword": [
+      "checkups", 
+      "child health care", 
+      "children", 
+      "dental care", 
+      "federally-funded health center", 
+      "find health center", 
+      "fqhc", 
+      "health center", 
+      "health services", 
+      "high-need", 
+      "immunization", 
+      "low income", 
+      "medical", 
+      "mental health", 
+      "pregnant", 
+      "prescription drugs", 
+      "preventive care", 
+      "primary care", 
+      "service", 
+      "sexual assault", 
+      "testing", 
+      "treatment"
+    ], 
+    "modified": "2010-09-01", 
+    "publisher": "Health Resources and Services Administration", 
+    "bureauCode": [
+      "009:15"
+    ], 
+    "programCode": [
+      "009:000"
+    ], 
+    "contactPoint": "HRSA Call Center", 
+    "mbox": "callcenter@hrsa.gov", 
+    "identifier": "fa10d4bc-34fc-4a7f-b67d-fa3665e2eb28", 
+    "accessLevel": "public", 
+    "spatial": "United States", 
+    "temporal": "2008-01-01/2008-01-01", 
+    "issued": "2010-09-01", 
+    "dataQuality": true, 
+    "theme": [
+      "Children's Health", 
+      "Health Care Providers", 
+      "Treatments"
+    ], 
+    "references": [
+      "http://findahealthcenter.hrsa.gov/Help/"
+    ], 
+    "landingPage": "http://findahealthcenter.hrsa.gov/Search_HCC.aspxSearch_HCC.aspxSearch_HCC.aspxSearch_HCC.aspx"
+  }, 
+   {
+    "title": "Service Locator - Comprehensive Healthcare", 
+    "description": "This location-based tool allows you to search near your current location for community health clinics that offer primary care including: wellness, check ups, vaccines, testing, sexual health, family planning, dental, mental health, substance abuse treatment, and HIV/AIDS care. It is available as an API, widget and website.\r\n\r\nCreated originally by the AIDS.gov team, the tool can be used by anyone looking for health and support services. The tool combines results for federally qualified health centers (FQHCs), FQHC look alikes, and Ryan White HIV/AIDS treatment centers from datawarehouse.hrsa.gov;for mental health and substance abuse from findtreatment.samhsa.gov; and for family planning from hhs.gov/opa/title-x-family-planning/.", 
+    "keyword": [
+      "aids", 
+      "community health", 
+      "family planning", 
+      "health services", 
+      "hiv", 
+      "locator", 
+      "primary care", 
+      "providers", 
+      "sexual assault", 
+      "testing", 
+      "treatment", 
+      "wellness"
+    ], 
+    "modified": "2013-01-24", 
+    "publisher": "Department of Health & Human Services", 
+    "bureauCode": [
+      "009:00"
+    ], 
+    "programCode": [
+      "009:000"
+    ], 
+    "contactPoint": "healthdata@hhs.gov", 
+    "mbox": "healthdata@hhs.gov", 
+    "identifier": "9ab3761a-f648-42e1-841f-293c6c938434", 
+    "accessLevel": "public", 
+    "issued": "2012-09-06", 
+    "dataQuality": true, 
+    "theme": [
+      "Health Care Providers", 
+      "Safety", 
+      "Treatments"
+    ], 
+    "references": [
+      "http://locator.aids.gov/data-how-to.html"
+    ], 
+    "landingPage": "http://locator.aids.gov/"
+  }
+]
