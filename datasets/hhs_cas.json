@@ -61,7 +61,6 @@
     "mbox": "resources@nsvrc.org", 
     "identifier": "ef126c3f-b130-42b0-8345-7c1502954aa5", 
     "accessLevel": "public", 
-    "format": "text/plain", 
     "spatial": "United States", 
     "issued": "2001-01-01", 
     "dataQuality": true, 
@@ -73,10 +72,12 @@
     "landingPage": "http://www.nsvrc.org/", 
     "distribution": [
       {
-        "accessURL": "http://www.nsvrc.org/"
+        "accessURL": "http://www.nsvrc.org/",
+        "format": "text/html"
       }, 
       {
-        "accessURL": "http://www.nsvrc.org/contact/request-assistance"
+        "accessURL": "http://www.nsvrc.org/contact/request-assistance",
+        "format": "text/html"
       }
     ]
   },
@@ -181,7 +182,6 @@
     "mbox": "niaaaweb-r@exchange.nih.gov", 
     "identifier": "9a8243ef-3494-447a-a694-ad54c472aeaa", 
     "accessLevel": "public", 
-    "format": "text/plain", 
     "spatial": "United States", 
     "temporal": "2001-01-01/2005-12-31", 
     "issued": "2014-03-31", 
@@ -196,16 +196,20 @@
     ], 
     "distribution": [
       {
-        "accessURL": "http://pubs.niaaa.nih.gov/publications/arh29-2/74-78.htm"
+        "accessURL": "http://pubs.niaaa.nih.gov/publications/arh29-2/74-78.htm",
+        "format": "text/html"
       }, 
       {
-        "accessURL": "http://pubs.niaaa.nih.gov/publications/datasys.htm"
+        "accessURL": "http://pubs.niaaa.nih.gov/publications/datasys.htm",
+        "format": "text/html"
       }, 
       {
-        "accessURL": "http://clinicaltrials.gov/show/NCT01273220"
+        "accessURL": "http://clinicaltrials.gov/show/NCT01273220",
+        "format": "text/html"
       }, 
       {
-        "accessURL": "http://www.ncbi.nlm.nih.gov/pubmed/?term=nesarc"
+        "accessURL": "http://www.ncbi.nlm.nih.gov/pubmed/?term=nesarc",
+        "format": "text/html"
       }
     ]
   }, 
@@ -234,7 +238,6 @@
     "mbox": "niaaaweb-r@exchange.nih.gov", 
     "identifier": "70211211-4267-4ee0-8c7b-9e5c29796e72", 
     "accessLevel": "public", 
-    "format": "text/plain", 
     "spatial": "United States", 
     "modified": "2013-01-31",
     "temporal": "2012-02-01/2013-01-31", 
@@ -246,16 +249,20 @@
     ], 
     "distribution": [
       {
-        "accessURL": "http://www.reginfo.gov/public/do/DownloadDocument?documentID=228799&version=1"
+        "accessURL": "http://www.reginfo.gov/public/do/DownloadDocument?documentID=228799&version=1",
+        "format": "text/html"
       }, 
       {
-        "accessURL": "http://clinicaltrials.gov/show/NCT01273220"
+        "accessURL": "http://clinicaltrials.gov/show/NCT01273220",
+        "format": "text/html"
       }, 
       {
-        "accessURL": "http://clinicaltrials.gov/show/NCT01273220"
+        "accessURL": "http://clinicaltrials.gov/show/NCT01273220",
+        "format": "text/html"
       }, 
       {
-        "accessURL": "http://www.ncbi.nlm.nih.gov/pubmed/?term=nesarc"
+        "accessURL": "http://www.ncbi.nlm.nih.gov/pubmed/?term=nesarc",
+        "format": "text/html"
       }
     ]
   }, 
@@ -331,7 +338,6 @@
     "mbox": "VetoViolence@cdc.gov", 
     "identifier": "65fb33a0-129d-45b5-9e0b-2e6b20b60af4", 
     "accessLevel": "public", 
-    "format": "text/plain", 
     "spatial": "United States", 
     "issued": "2011-01-01", 
     "dataQuality": true, 
@@ -343,13 +349,16 @@
     "landingPage": "http://vetoviolence.cdc.gov", 
     "distribution": [
       {
-        "accessURL": "http://vetoviolence.cdc.gov/"
+        "accessURL": "http://vetoviolence.cdc.gov/",
+        "format": "text/html"
       }, 
       {
-        "accessURL": "http://vetoviolence.cdc.gov/education-courses.html"
+        "accessURL": "http://vetoviolence.cdc.gov/education-courses.html",
+        "format": "text/html"
       }, 
       {
-        "accessURL": "http://vetoviolence.cdc.gov/success-worksheet.html"
+        "accessURL": "http://vetoviolence.cdc.gov/success-worksheet.html",
+        "format": "text/html"
       }
     ]
   }, 
@@ -386,7 +395,6 @@
     "mbox": "psidhelp@umich.edu", 
     "identifier": "f073b460-a557-4b5d-8ab0-05b7f2a07f26", 
     "accessLevel": "public", 
-    "format": "text/plain", 
     "license": "http://simba.isr.umich.edu/U/ca.aspx", 
     "spatial": "United States", 
     "temporal": "1968-01-01/1968-01-01", 
@@ -403,9 +411,11 @@
     "distribution": [
       {
         "accessURL": "http://psidonline.isr.umich.edu/Studies.aspx"
+        "format": "text/html"
       }, 
       {
         "accessURL": "http://simba.isr.umich.edu/default.aspx"
+        "format": "text/html"
       }
     ]
   }, 
