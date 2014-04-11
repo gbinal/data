@@ -257,10 +257,6 @@
         "format": "text/html"
       }, 
       {
-        "accessURL": "http://clinicaltrials.gov/show/NCT01273220",
-        "format": "text/html"
-      }, 
-      {
         "accessURL": "http://www.ncbi.nlm.nih.gov/pubmed/?term=nesarc",
         "format": "text/html"
       }
