@@ -34,13 +34,7 @@
       "Safety", 
       "Treatments"
     ], 
-    "landingPage": "https://prep.rti.org/ARAtoolkit/index.html", 
-    "distribution": [
-      {
-        "identifier": "e1d6e3b0-5798-4bc4-9ab7-0756210fd229", 
-        "accessURL": "https://prep.rti.org/ARAtoolkit/index.html"
-      }
-    ]
+    "landingPage": "https://prep.rti.org/ARAtoolkit/index.html"
   }, 
     {
     "title": "National Sexual Violence Resource Center (NSVRC)", 
@@ -67,7 +61,6 @@
     "mbox": "resources@nsvrc.org", 
     "identifier": "ef126c3f-b130-42b0-8345-7c1502954aa5", 
     "accessLevel": "public", 
-    "accessURL": "http://www.nsvrc.org/", 
     "format": "text/plain", 
     "spatial": "United States", 
     "issued": "2001-01-01", 
@@ -80,11 +73,9 @@
     "landingPage": "http://www.nsvrc.org/", 
     "distribution": [
       {
-        "identifier": "7b325558-5cfd-4a57-9a58-d5a89556b9b3", 
         "accessURL": "http://www.nsvrc.org/"
       }, 
       {
-        "identifier": "25428b3e-ee27-4f1d-aee1-521c4516cbda", 
         "accessURL": "http://www.nsvrc.org/contact/request-assistance"
       }
     ]
@@ -125,13 +116,7 @@
     "references": [
       "http://www.cdc.gov/mmwr/pdf/rr/rr6201.pdf"
     ], 
-    "landingPage": "http://www.cdc.gov/healthyyouth/yrbs/data/index.htm", 
-    "distribution": [
-      {
-        "identifier": "0f38c1d0-540d-4279-b7fc-2ba2064b7f6a", 
-        "accessURL": "http://www.cdc.gov/healthyyouth/yrbs/cdcreports.htm"
-      }
-    ]
+    "landingPage": "http://www.cdc.gov/healthyyouth/yrbs/data/index.htm"
   }, 
    {
     "title": "National Violent Death Reporting System (NVDRS)", 
@@ -196,7 +181,6 @@
     "mbox": "niaaaweb-r@exchange.nih.gov", 
     "identifier": "9a8243ef-3494-447a-a694-ad54c472aeaa", 
     "accessLevel": "public", 
-    "accessURL": "http://pubs.niaaa.nih.gov/publications/arh29-2/74-78.htm", 
     "format": "text/plain", 
     "spatial": "United States", 
     "temporal": "2001-01-01/2005-12-31", 
@@ -212,19 +196,15 @@
     ], 
     "distribution": [
       {
-        "identifier": "3edd3eb0-0d39-4abf-b3a6-a794dff6471a", 
         "accessURL": "http://pubs.niaaa.nih.gov/publications/arh29-2/74-78.htm"
       }, 
       {
-        "identifier": "5ae21d2c-6970-4adf-9df8-7524e26cc231", 
         "accessURL": "http://pubs.niaaa.nih.gov/publications/datasys.htm"
       }, 
       {
-        "identifier": "43a74381-f54c-4a0f-93c1-3a3af1487439", 
         "accessURL": "http://clinicaltrials.gov/show/NCT01273220"
       }, 
       {
-        "identifier": "5e2cdf8c-f4dc-45d3-a688-22c9e23399f1", 
         "accessURL": "http://www.ncbi.nlm.nih.gov/pubmed/?term=nesarc"
       }
     ]
@@ -254,9 +234,9 @@
     "mbox": "niaaaweb-r@exchange.nih.gov", 
     "identifier": "70211211-4267-4ee0-8c7b-9e5c29796e72", 
     "accessLevel": "public", 
-    "accessURL": "http://www.reginfo.gov/public/do/DownloadDocument?documentID=228799&version=1", 
     "format": "text/plain", 
     "spatial": "United States", 
+    "modified": "2013-01-31"
     "temporal": "2012-02-01/2013-01-31", 
     "dataQuality": true, 
     "theme": [
@@ -266,19 +246,15 @@
     ], 
     "distribution": [
       {
-        "identifier": "76948330-3b0a-4452-858d-a404cbb3b9f1", 
         "accessURL": "http://www.reginfo.gov/public/do/DownloadDocument?documentID=228799&version=1"
       }, 
       {
-        "identifier": "e4d63cad-cb94-4489-940a-81b3257c2c9b", 
         "accessURL": "http://clinicaltrials.gov/show/NCT01273220"
       }, 
       {
-        "identifier": "44db6cba-0af3-4118-b021-92f8c46d2e54", 
         "accessURL": "http://clinicaltrials.gov/show/NCT01273220"
       }, 
       {
-        "identifier": "1c8bec39-bd0f-4d03-8b77-84a59fc8b2c8", 
         "accessURL": "http://www.ncbi.nlm.nih.gov/pubmed/?term=nesarc"
       }
     ]
@@ -306,6 +282,7 @@
       "united states"
     ], 
     "publisher": "Centers for Disease Control and Prevention", 
+    "modified":"2010-01-01"
     "bureauCode": [
       "009:20"
     ], 
@@ -354,7 +331,6 @@
     "mbox": "VetoViolence@cdc.gov", 
     "identifier": "65fb33a0-129d-45b5-9e0b-2e6b20b60af4", 
     "accessLevel": "public", 
-    "accessURL": "http://vetoviolence.cdc.gov/", 
     "format": "text/plain", 
     "spatial": "United States", 
     "issued": "2011-01-01", 
@@ -367,15 +343,12 @@
     "landingPage": "http://vetoviolence.cdc.gov", 
     "distribution": [
       {
-        "identifier": "872b508b-f8e3-4967-b616-9811fe634d61", 
         "accessURL": "http://vetoviolence.cdc.gov/"
       }, 
       {
-        "identifier": "8fe332d0-a3bd-429b-9f79-9428e187e737", 
         "accessURL": "http://vetoviolence.cdc.gov/education-courses.html"
       }, 
       {
-        "identifier": "55655e50-5cd1-438b-8882-4afdb7355b4f", 
         "accessURL": "http://vetoviolence.cdc.gov/success-worksheet.html"
       }
     ]
@@ -413,7 +386,6 @@
     "mbox": "psidhelp@umich.edu", 
     "identifier": "f073b460-a557-4b5d-8ab0-05b7f2a07f26", 
     "accessLevel": "public", 
-    "accessURL": "http://psidonline.isr.umich.edu/Studies.aspx", 
     "format": "text/plain", 
     "license": "http://simba.isr.umich.edu/U/ca.aspx", 
     "spatial": "United States", 
@@ -430,11 +402,9 @@
     "landingPage": "http://psidonline.isr.umich.edu/", 
     "distribution": [
       {
-        "identifier": "aa31eb67-53d4-495b-8560-6be1f010fd6c", 
         "accessURL": "http://psidonline.isr.umich.edu/Studies.aspx"
       }, 
       {
-        "identifier": "5e0a028c-3eec-4f2d-86ec-dba08490bb44", 
         "accessURL": "http://simba.isr.umich.edu/default.aspx"
       }
     ]
@@ -486,13 +456,7 @@
     "references": [
       "http://locator.aids.gov/data-how-to.html"
     ], 
-    "landingPage": "http://locator.aids.gov/", 
-    "distribution": [
-      {
-        "identifier": "f582cd16-aec6-4c75-b99b-958759520f15", 
-        "accessURL": "http://www.hhs.gov/opa/"
-      }
-    ]
+    "landingPage": "http://locator.aids.gov/"
   }, 
    {
     "title": "National Survey of Family Growth", 
@@ -532,13 +496,7 @@
     "references": [
       "http://www.cdc.gov/nchs/nsfg.htm"
     ], 
-    "landingPage": "http://www.cdc.gov/nchs/nsfg/nsfg_questionnaires.htm", 
-    "distribution": [
-      {
-        "identifier": "57ef58b7-c752-44eb-bf7e-916bcb62a072", 
-        "accessURL": "http://www.cdc.gov/nchs/nsfg/nsfg_2006_2010_puf.htm#downloadable"
-      }
-    ]
+    "landingPage": "http://www.cdc.gov/nchs/nsfg/nsfg_questionnaires.htm"
   }, 
    {
     "title": "HCUP Nationwide Emergency Department Database (NEDS)", 
@@ -663,13 +621,7 @@
       "Safety", 
       "Treatments"
     ], 
-    "landingPage": "http://findtreatment.samhsa.gov/MHTreatmentLocator/faces/about.jspx", 
-    "distribution": [
-      {
-        "identifier": "10122904-59b0-45aa-bddc-c828a6c3aca7", 
-        "accessURL": "http://serviceslocator.mentalhealth.gov/providers/"
-      }
-    ]
+    "landingPage": "http://findtreatment.samhsa.gov/MHTreatmentLocator/faces/about.jspx"
   }, 
  {
     "title": "Find a Health Center", 
